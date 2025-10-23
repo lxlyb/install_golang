@@ -1,0 +1,2 @@
+# install_golang
+自动从golang官网安装最新版的golang
